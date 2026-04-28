@@ -1,0 +1,10 @@
+CREATE TABLE Cars
+(
+    CarID INT PRIMARY KEY,
+    CarName VARCHAR(50)
+)
+
+INSERT INTO Cars VALUES
+(1, 'KIA'),
+(2, 'BMW'),
+(3, 'FORD');
